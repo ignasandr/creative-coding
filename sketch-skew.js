@@ -20,7 +20,7 @@ const sketch = () => {
       y = height * 0.5 + (i * i);
       w = width * 0.6;
       h = height * 0.1;
-
+      //looks cool
       let degrees = i * 45;
 
       context.save();
