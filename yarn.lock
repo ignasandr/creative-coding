@@ -335,6 +335,11 @@ right-now@^1.0.0:
   resolved "https://registry.yarnpkg.com/right-now/-/right-now-1.0.0.tgz#6e89609deebd7dcdaf8daecc9aea39cf585a0918"
   integrity sha512-DA8+YS+sMIVpbsuKgy+Z67L9Lxb1p05mNxRpDPNksPDEFir4vmBlUtuN9jkTGn9YMMdlBuK7XQgFiz6ws+yhSg==
 
+riso-colors@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/riso-colors/-/riso-colors-1.0.1.tgz#9352b1524625f0d5641aea4a8630c4fee94f4473"
+  integrity sha512-foLj2eUiyft2hOe7PzsT9qcT+zLnkw3pGesPQv6JG93OJ0+1J0fdCwdtwxDDCqnYDdgRatKbrb0qhB95vhZ2wQ==
+
 seed-random@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/seed-random/-/seed-random-2.2.0.tgz#2a9b19e250a817099231a5b99a4daf80b7fbed54"
